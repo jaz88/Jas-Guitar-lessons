@@ -185,7 +185,7 @@ public class ChordsDetailDialog1 extends Dialog<ButtonType> {
 	// anzuzeigen 
 	public void update01() {
 
-		try {
+	  	try {
 			ArrayList<Chords> al = klassen.Datenbank.leseChords(null);
 			olChordsneu.clear();
 			for (Chords einC : al)
