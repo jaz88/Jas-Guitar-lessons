@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri May 13 09:45:17 CEST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0180-bc61-06eb-000007080c98 
+on database directory C:\temp\DatabaseGuitar with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@42d3bd8b 
+Loaded from file:/C:/Users/Chef/Downloads/Derby/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=16.0.2+7-67
+user.dir=C:\Users\Chef\eclipse-workspace222\JasGuitarLesson_Version1
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
