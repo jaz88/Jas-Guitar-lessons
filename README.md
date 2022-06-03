@@ -11,3 +11,4 @@ The difference it’s fully build up without a scene builder and the database is
 You have 2 GUIs one for the teacher ,one for the pupil
 
 The inserting , updating and deleting of any item in this application  happens in the front end 
+
